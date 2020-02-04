@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="281a8e69-00ff-498b-beea-603e7c54f9dd" name="Default Changelist" comment="" />
+    <list default="true" id="281a8e69-00ff-498b-beea-603e7c54f9dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tripadvisor_NLTK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tripadvisor_Scraper-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/reviewNLTK-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/sampleNLTK-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tripadvisor_NLTK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tripadvisor_Scraper.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reviewNLTK.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sampleNLTK.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NLPexercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLPexercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NLTK-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Review-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Review-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLTK.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NPLexercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Review.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +35,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WkaR6fkjGHUf0R9xHBm6W1J0Ek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="NLPexercise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -72,6 +107,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579696113559">
       <screen x="0" y="23" width="1440" height="813" />
@@ -85,9 +123,29 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="536" y="352" key="Github.CreateGistDialog/0.23.1440.813@0.23.1440.813" timestamp="1579696184955" />
-    <state x="556" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1579696069507">
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom" timestamp="1580643576767">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="556" y="434" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1579696069507" />
+    <state width="1379" height="196" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1580643576767" />
+    <state width="1379" height="196" key="GridCell.Tab.0.center" timestamp="1580643576765">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1580643576765" />
+    <state width="1379" height="196" key="GridCell.Tab.0.left" timestamp="1580643576764">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1580643576764" />
+    <state width="1379" height="196" key="GridCell.Tab.0.right" timestamp="1580643576766">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1379" height="196" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1580643576766" />
+    <state x="229" y="68" key="SettingsEditor" timestamp="1580643069021">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="229" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1580643069021" />
+    <state x="556" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1580642615736">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="556" y="434" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1580642615736" />
   </component>
 </project>
