@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281a8e69-00ff-498b-beea-603e7c54f9dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tripadvisor_NLTK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Tripadvisor_Scraper-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/reviewNLTK-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/sampleNLTK-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tripadvisor_NLTK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tripadvisor_Scraper.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviewNLTK.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sampleNLTK.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NLPexercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLPexercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/NLTK-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Review-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Review-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLTK.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NPLexercise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Review.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/reviewNLTK-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/reviewNLTK-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewNLTK.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reviewNLTK.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,9 +125,9 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="229" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1580643069021" />
-    <state x="556" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1580642615736">
+    <state x="556" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1581518264286">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="556" y="434" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1580642615736" />
+    <state x="556" y="434" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1581518264286" />
   </component>
 </project>
